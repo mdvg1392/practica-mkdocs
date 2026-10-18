@@ -1,6 +1,6 @@
-site_name: Practica Plataformas Web
-site_description: Documentacion generada con MkDocs y GitHub Actions
-site_author: Milton Villacres
+site_name: "Práctica Plataformas Web"
+site_description: "Documentación Generada con MkDocs y GitHub Actions"
+site_author: "Milton Villacrés"
 
 
 theme:
