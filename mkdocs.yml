@@ -1,0 +1,23 @@
+site_name: Practica Plataformas Web
+site_description: Documentacion generada con MkDocs y GitHub Actions
+site_author: Milton Villacres
+
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+nav:
+  - Inicio: index.md
+  - Practica: practica.md
